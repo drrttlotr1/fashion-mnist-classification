@@ -72,13 +72,13 @@ The CNN provided the best result among the successfully trained models, improvin
 ```text
 goit-ds-hw-16-main/
 │
-├── Hw13.ipynb          # Data analysis, model development and experiments
-├── app.py              # Application for model demonstration
-├── requirements.txt    # Project dependencies
-├── cnn_history.npy     # CNN training history
-├── vgg_history.npy     # VGG16 training history
-├── images.jpg          # Project image
-└── name1_man_29.jpg    # Image used for model demonstration
+├── fashion-mnist-classification.ipynb          # Data analysis, model development and experiments
+├── app.py                                      # Application for model demonstration
+├── requirements.txt                            # Project dependencies
+├── cnn_history.npy                             # CNN training history
+├── vgg_history.npy                             # VGG16 training history
+├── images.jpg                                  # Project image
+└── name1_man_29.jpg                            # Image used for model demonstration
 ```
 
 ## 🎯 Key Takeaways
